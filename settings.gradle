@@ -1,0 +1,3 @@
+include ':glideTestUtil'
+include ':app'
+rootProject.name = "GlideTestLib"
